@@ -5,3 +5,4 @@
 
 ## Tugas individu exercise 5
 ### Irfan Hanif : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5178609063265747/15573972697372/3666150552019693/latest.html
+### Haidar Arya : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7008014755295958/3387009965943916/4852780816847141/latest.html
