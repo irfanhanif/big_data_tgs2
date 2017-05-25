@@ -18,3 +18,11 @@
 ### Rahmatin Nadia
 1. **Twitter Hashtag Count** : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8643132940459253/2179130229392768/8952763245024558/latest.html
 2. **Structured Streaming** : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8643132940459253/2179130229392783/8952763245024558/latest.html
+
+## Tugas Individu exercice 8
+### Irfan Hanif
+
+### Haidar Arya 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7008014755295958/2458398823708483/4852780816847141/latest.html
+### Rahmatin Nadia
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7734103415105727/3230843334909001/4639397309955290/latest.html
